@@ -21,7 +21,6 @@ public class Engine {
 
     public Engine (String name) {
         this.name = name;
-        this.power = power;
     }
 
     public Engine () {}
